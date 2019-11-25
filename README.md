@@ -6,7 +6,7 @@ Lutris RPM for RHEL/CentOS 8
 # Steps to install-
 
 1. Clone, extract and `cd Lutris-RHEL-CentOS-8-master`
-2. `chmod +x cabextract-1.5-8.el8.x86_64.rpm lutris-0.5.2.1-1.el8.x86_64.rpm`
+2. `chmod +x cabextract-1.9-2.el8.x86_64.rpm lutris-0.5.2.1-1.el8.x86_64.rpm`
 3. `sudo dnf install cabextract-1.5-8.el8.x86_64.rpm`
 4. `sudo dnf install lutris-0.5.2.1-1.el8.x86_64.rpm`
 
