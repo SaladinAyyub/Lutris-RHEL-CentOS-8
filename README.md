@@ -2,7 +2,15 @@
 Lutris RPM for RHEL/CentOS 8
 
 # Make sure EPEL is enabled
-`yum install epel-release`
+
+RHEL 8 -
+`sudo subscription-manager repos --enable "codeready-builder-for-rhel-8-$(uname -m)-rpms"`
+`yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm`
+`sudo yum install epel-release`
+
+CentOS 8 -
+`sudo dnf config-manager --enable PowerTools`
+`sudo yum install epel-release`
 
 # Steps to install-
 
