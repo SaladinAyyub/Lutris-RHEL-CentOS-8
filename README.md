@@ -1,7 +1,8 @@
 # Lutris-RHEL-CentOS-8
 Lutris RPM for RHEL/CentOS 8
 
-# Make sure EPEL is enabled.
+# Make sure EPEL is enabled
+`yum install epel-release`
 
 # Steps to install-
 
