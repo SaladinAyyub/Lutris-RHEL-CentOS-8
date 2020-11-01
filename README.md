@@ -20,8 +20,7 @@ CentOS 8 -
 1. Clone, extract and `cd Lutris-RHEL-CentOS-8-master`
 2. `sudo dnf install cabextract-1.9-2.el8.x86_64.rpm lutris-0.5.2.1-1.el8.x86_64.rpm`
 
-## Optional (if you want to use gamemode)
-`sudo yum-config-manager --enable epel-testing` 
+## Optional (if you want to use gamemode) 
 
 `sudo dnf install gamemode`
 
