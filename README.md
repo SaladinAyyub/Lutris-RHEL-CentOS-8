@@ -1,5 +1,6 @@
 # Lutris-RHEL-CentOS-8
 Lutris RPM for RHEL/CentOS 8
+For RHEL/CentOS 7     https://github.com/jatin-cbs/Lutris-RHEL-CentOS7
 
 # Make sure EPEL is enabled
 
