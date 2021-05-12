@@ -20,9 +20,9 @@ CentOS 8 -
 # Steps to install-
 
 1. Clone, extract and `cd Lutris-RHEL-CentOS-8-master`
-2. `sudo dnf install cabextract-*.el8.x86_64.rpm lutris-*.el8.x86_64.rpm`
+2. `sudo dnf install lutris-*.el8.x86_64.rpm`
 
-Cabextract will no longer be needed as it is being included in the EPEL. https://bugzilla.redhat.com/show_bug.cgi?id=1744725
+Cabextract is no longer needed as it is being included in the EPEL. https://bugzilla.redhat.com/show_bug.cgi?id=1744725
 
 ## Optional (if you want to use gamemode) 
 
