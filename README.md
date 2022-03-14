@@ -1,3 +1,10 @@
+# Important Update - (March 2022)
+
+Lutris package is now available in EPEL directly for CentOS Stream and deravitives like RHEL 8,9 and Rocky Linux 8,9. Simply enable EPEL https://docs.fedoraproject.org/en-US/epel/#_el8  and run `sudo dnf install lutris`
+
+
+
+
 # Lutris-RHEL-CentOS-8
 Lutris RPM for RHEL/CentOS 8
 
